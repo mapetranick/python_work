@@ -1,0 +1,8 @@
+message = "Michael is the greatest ever!"
+print(message)
+message = "Python says so!"
+print(message)
+message = "Jamama is the greatest mama!"
+print(message)
+message = "Patrick knows how to shoot guns."
+print(message)
